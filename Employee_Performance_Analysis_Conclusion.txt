@@ -1,0 +1,25 @@
+Employee Performance Analysis - Conclusion
+
+1. Salary Trends:
+   - HR has the lowest average salary ($94,625.95), while Marketing has the highest ($96,079.97).
+   - Overall, salary distribution across departments is balanced.
+
+2. Performance Score Distribution:
+   - The average performance score is 3.77.
+   - 25% of employees score above 4.4 (top performers).
+   - Few employees have a score below 3.0, indicating training needs.
+
+3. Promotion Trends:
+   - 49.28% of employees were promoted.
+   - Higher performance scores increase promotion chances.
+
+4. Experience vs. Salary Correlation:
+   - Weak correlation (0.0093) between years at the company and salary.
+   - Other factors (performance, department) play a bigger role in salary growth.
+
+Recommendations:
+- Adjust HR salaries for fair compensation.
+- Implement performance-based salary increments.
+- Provide training programs for low performers.
+- Ensure top performers receive recognition even if not promoted.
+
